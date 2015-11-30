@@ -300,4 +300,6 @@ Copyright 2011-2012 Bartek Szopka
 
 Released under the MIT and GPL (version 2 or later) Licenses.
 
+Blog para proyecto de clase de Ing de software
+View live demostration site at http://DidierVera.github.io/impress.js
 
